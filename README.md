@@ -14,3 +14,4 @@ Result -> The mod manages the attack to become a valid smash attack
 
 
 Demo video: https://youtu.be/D_2W1BXkHQs
+All Rights Reserved to sjavi4
