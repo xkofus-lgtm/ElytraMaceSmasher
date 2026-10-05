@@ -8,7 +8,7 @@ The mod let player make smash attack while surfing.
 
 Original Modrinth: https://modrinth.com/mod/elytramace
 
-Unofficial Port Modrinth: (to fill up)
+Unofficial Port Modrinth
 
 How to use:
 1. Wearing elytra and holding Mace in mainhand
